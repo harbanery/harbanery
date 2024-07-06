@@ -13,6 +13,16 @@
 
 <!-- About Section -->
 
+- 🌱 I’m currently learning Laravel, Next.js, and others.
+- 😄 Pronouns: He/Him
+
+<!-- - 🔭 I’m currently working on ... -->
+<!-- - 👯 I’m looking to collaborate on ... -->
+<!-- - 🤔 I’m looking for help with ... -->
+<!-- - 💬 Ask me about ... -->
+<!-- - 📫 How to reach me: ... -->
+<!-- - ⚡ Fun fact: ... -->
+
 <!-- End: About Section -->
 
 <!-- Connect Section -->
@@ -34,10 +44,10 @@
 <table>
     <tr>
         <td>
-            <img align="center" src="https://github-readme-stats.vercel.app/api?username=harbanery&hide_title=true&rank_icon=github&show_icons=true&hide_border=true&theme=dark" alt="Harbane's stats" />
+            <img align="center" width="100%" src="https://github-readme-stats.vercel.app/api?username=harbanery&hide=stars,issues&hide_title=true&rank_icon=github&show_icons=true&hide_border=true&theme=dark" alt="Harbane's stats" />
         </td>
         <td>
-            <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harbanery&langs_count=10&show_icons=true&locale=en&layout=compact&hide_border=true&theme=dark" alt="Harbane's language" />
+            <img align="center" width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harbanery&langs_count=10&show_icons=true&locale=en&layout=compact&hide_border=true&theme=dark" alt="Harbane's language" />
         </td>
     </tr>
 </table>
