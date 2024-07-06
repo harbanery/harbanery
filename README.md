@@ -33,7 +33,7 @@
 
 <div>
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=harbanery&rank_icon=github&show_icons=true&hide_border=true&theme=dark" alt="Harbane's stats" />
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harbanery&langs_count=10&show_icons=true&locale=en&layout=compact&hide_border=true&theme=dark" alt="Harbane's language" height="192px"  width="500px" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harbanery&langs_count=10&show_icons=true&locale=en&layout=compact&hide_border=true&theme=dark" alt="Harbane's language" />
 </div>
 
 <!-- End: Github Section -->
