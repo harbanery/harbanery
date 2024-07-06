@@ -118,6 +118,8 @@
             <img align="center" width="100%" src="https://streak-stats.demolab.com/?user=harbanery&theme=onedark-duo&hide_border=true&date_format=j%20M%5B%20Y%5D&background=0D1117" alt="Harbane's streak stats" />
         </td>
     </tr>
+    <tr>
+    </tr>
     <tr align="center">
         <td>
             <!-- <picture>
