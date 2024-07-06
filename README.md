@@ -31,9 +31,15 @@
 
 ### My Github Stats
 
-<div>
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=harbanery&rank_icon=github&show_icons=true&hide_border=true&theme=dark" alt="Harbane's stats" />
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harbanery&langs_count=10&show_icons=true&locale=en&layout=compact&hide_border=true&theme=dark" alt="Harbane's language" />
-</div>
+<table>
+    <tr>
+        <td>
+            <img align="center" src="https://github-readme-stats.vercel.app/api?username=harbanery&hide_title=true&rank_icon=github&show_icons=true&hide_border=true&theme=dark" alt="Harbane's stats" />
+        </td>
+        <td>
+            <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harbanery&langs_count=10&show_icons=true&locale=en&layout=compact&hide_border=true&theme=dark" alt="Harbane's language" />
+        </td>
+    </tr>
+</table>
 
 <!-- End: Github Section -->
