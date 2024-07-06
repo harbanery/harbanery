@@ -110,6 +110,8 @@
 
 <!-- Github Stats & Trophies Section -->
 
+---
+
 ### My Github Stats
 
 <table>
