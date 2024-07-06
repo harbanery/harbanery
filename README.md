@@ -31,13 +31,18 @@
 
 ### Let's Connect with Me
 
+[![Github](https://img.shields.io/github/followers/harbanery?style=for-the-badge&logo=github&label=Follow&color=121011)](https://github.com/harbanery)
 [![LinkedIn](https://img.shields.io/badge/Raihan%20Yusuf-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raihan-yusuf/)
 
 <!-- End: Connect Section -->
 
 <!-- Skill Section -->
 
-## My Top Skill
+### My Top Skill
+
+[![Go](https://img.shields.io/badge/go-00ADD8?style=for-the-badge&logo=go&logoColor=white)](https://golang.org/)
+[![React.js](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://reactjs.org/)
+[![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)](https://www.php.net/)
 
 <!-- End: Skill Section -->
 
@@ -55,5 +60,9 @@
         </td>
     </tr>
 </table>
+
+### My Github Trophy
+
+[![Harbane's trophy](https://github-profile-trophy.vercel.app/?username=harbanery&row=1&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C&margin-w=5&margin-h=5&theme=darkhub&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
 
 <!-- End: Github Section -->
