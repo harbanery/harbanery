@@ -15,7 +15,7 @@
 
 <!-- About Section -->
 
-- 🌱 I’m currently learning Laravel.
+- 🌱 I’m currently learning Laravel and Django.
 - 😄 Pronouns: He/Him
 
 <!-- - 🔭 I’m currently working on ... -->
