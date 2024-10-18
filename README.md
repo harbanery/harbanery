@@ -15,7 +15,7 @@
 
 <!-- About Section -->
 
-- 🌱 I’m currently learning Docker & working on project: ANKASA✈️
+- 🌱 I’m currently working on project: ANKASA✈️
 - 😄 Pronouns: He/Him
 
 <!-- - 🔭 I’m currently working on ... -->
