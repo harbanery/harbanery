@@ -15,9 +15,9 @@
 
 <!-- About Section -->
 
-- 🌱 I’m currently working on project: ANKASA✈️
 - 😄 Pronouns: He/Him
 
+<!-- - 🌱 I’m currently working on project: ANKASA✈️ -->
 <!-- - 🔭 I’m currently working on ... -->
 <!-- - 👯 I’m looking to collaborate on ... -->
 <!-- - 🤔 I’m looking for help with ... -->
@@ -51,7 +51,7 @@
 [![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)](https://www.php.net/)
 [![Python](https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
 
-<details open>
+<details>
   <summary>Front-End Development</summary>
   <br>
 
@@ -72,7 +72,7 @@
 
 </details>
 
-<details open>
+<details>
   <summary>Database</summary>
   <br>
   
@@ -82,7 +82,7 @@
 
 </details>
 
-<details open>
+<details>
   <summary>Framework</summary>
   <br>
 
