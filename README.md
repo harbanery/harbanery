@@ -44,66 +44,84 @@
 [![React.js](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://reactjs.org/)
 [![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)](https://www.php.net/) -->
 
-### My Skills
+### My Primary Skills
 
-[![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+<sup>Skills I actively use in my current role</sup>
+
+[![Next.js](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)](https://nextjs.org/)
 [![Go](https://img.shields.io/badge/go-00ADD8?style=for-the-badge&logo=go&logoColor=white)](https://golang.org/)
-[![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)](https://www.php.net/)
+
+<!-- [![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)](https://developer.mozilla.org/en-US/docs/Web/JavaScript) -->
+
+<!-- [![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)](https://www.php.net/) -->
 <!-- [![Python](https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/) -->
 
-<details>
+<!-- <details>
   <summary>Front-End Development</summary>
+  <br> -->
+
+<!-- [![React.js](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://reactjs.org/) -->
+<!-- [![Tailwind CSS](https://img.shields.io/badge/tailwindcss-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/) -->
+<!--  [![Bootstrap](https://img.shields.io/badge/bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)](https://getbootstrap.com/) -->
+<!-- [![Redux](https://img.shields.io/badge/redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)](https://redux.js.org/) -->
+<!-- [![HTML](https://img.shields.io/badge/html-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML) -->
+<!-- [![CSS](https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS) -->
+
+<!-- </details> -->
+
+<!-- <details>
+  <summary>Back-End Development</summary>
+  <br> -->
+
+<!-- [![Node.js](https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)](https://nodejs.org/) -->
+
+<!-- </details> -->
+
+<!-- <details>
+  <summary>Database</summary>
+  <br> -->
+
+<!-- [![PostgreSQL](https://img.shields.io/badge/postgresql-336791?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/) -->
+<!-- [![MySQL](https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/) -->
+<!-- [![MariaDB](https://img.shields.io/badge/mariadb-003545?style=for-the-badge&logo=mariadb&logoColor=white)](https://mariadb.org/) -->
+
+<!-- </details> -->
+
+<!-- <details>
+  <summary>Framework</summary>
+  <br> -->
+
+<!-- [![Laravel](https://img.shields.io/badge/laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)](https://laravel.com/) -->
+<!-- [![Next.js](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)](https://nextjs.org/) -->
+<!-- [![CodeIgniter](https://img.shields.io/badge/codeigniter-EF4223?style=for-the-badge&logo=codeigniter&logoColor=white)](https://codeigniter.com/) -->
+
+<!-- </details> -->
+
+<!-- <details>
+  <summary>Software for Documentation</summary>
+  <br> -->
+
+<!-- [![Postman](https://img.shields.io/badge/postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)](https://www.postman.com/) -->
+
+<!-- </details> -->
+
+<details open>
+  <summary>Other Skills</summary>
   <br>
 
 [![React.js](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://reactjs.org/)
+[![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
+[![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [![Tailwind CSS](https://img.shields.io/badge/tailwindcss-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
-<!--  [![Bootstrap](https://img.shields.io/badge/bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)](https://getbootstrap.com/) -->
-[![Redux](https://img.shields.io/badge/redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)](https://redux.js.org/)
-[![HTML](https://img.shields.io/badge/html-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
-[![CSS](https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
-
-</details>
-
-<details>
-  <summary>Back-End Development</summary>
-  <br>
-
-[![Node.js](https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)](https://nodejs.org/)
-
-</details>
-
-<details>
-  <summary>Database</summary>
-  <br>
-  
-[![PostgreSQL](https://img.shields.io/badge/postgresql-336791?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
-[![MySQL](https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
-<!-- [![MariaDB](https://img.shields.io/badge/mariadb-003545?style=for-the-badge&logo=mariadb&logoColor=white)](https://mariadb.org/) -->
-
-</details>
-
-<details>
-  <summary>Framework</summary>
-  <br>
-
-[![Laravel](https://img.shields.io/badge/laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)](https://laravel.com/)
-[![Next.js](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)](https://nextjs.org/)
-[![CodeIgniter](https://img.shields.io/badge/codeigniter-EF4223?style=for-the-badge&logo=codeigniter&logoColor=white)](https://codeigniter.com/)
-
-</details>
-
-<details>
-  <summary>Software for Documentation</summary>
-  <br>
-
+[![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)](https://www.php.net/)
+[![Figma](https://img.shields.io/badge/figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)](https://www.figma.com/)
 [![Postman](https://img.shields.io/badge/postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)](https://www.postman.com/)
+[![PostgreSQL](https://img.shields.io/badge/postgresql-336791?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
 
 </details>
 
-<!-- Other Skills -->
 <!-- [![Java](https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white)](https://www.java.com/)
 [![MATLAB](https://img.shields.io/badge/matlab-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)](https://www.mathworks.com/products/matlab.html)
-[![Figma](https://img.shields.io/badge/figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)](https://www.figma.com/)
 [![MongoDB](https://img.shields.io/badge/mongodb-47A248?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com/) -->
 
 <!-- End: Skill Section -->
@@ -123,7 +141,7 @@
     <tr>
     </tr>
     <tr align="center">
-        <td>
+        <!-- <td> -->
             <!-- <picture>
                 <source
                     srcset="https://github-readme-stats.vercel.app/api?username=harbanery&hide=stars,issues&hide_title=true&rank_icon=github&show_icons=true&hide_border=true&theme=dark"
@@ -135,19 +153,19 @@
                 />
                 <img align="center" width="100%" src="https://github-readme-stats.vercel.app/api?username=harbanery&hide=stars,issues&hide_title=true&rank_icon=github&show_icons=true&hide_border=true&theme=dark" alt="Harbane's stats" />
             </picture> -->
-            <img align="center" width="100%" src="https://github-readme-stats.vercel.app/api?username=harbanery&hide=stars,issues&hide_title=true&rank_icon=github&show_icons=true&hide_border=true&theme=onedark&bg_color=0d1117" alt="Harbane's stats" />
-        </td>
+            <!-- <img align="center" width="100%" src="https://github-readme-stats.vercel.app/api?username=harbanery&hide=stars,issues&hide_title=true&rank_icon=github&show_icons=true&hide_border=true&theme=onedark&bg_color=0d1117" alt="Harbane's stats" /> -->
+        <!-- </td> -->
         <td>
             <img align="center" width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harbanery&langs_count=4&show_icons=true&locale=en&layout=compact&hide_border=true&theme=onedark&bg_color=0d1117" alt="Harbane's most used language" />
         </td>
     </tr>
 </table>
 
-<details open>
+<!-- <details open>
   <summary><b>GitHub Trophy</b></summary>
   <br>
   <img src="https://github-profile-trophy.vercel.app/?username=harbanery&row=1&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C&margin-w=5&margin-h=5&theme=onedark&no-bg=true&no-frame=true" alt="Harbane's trophy" />
-</details>
+</details> -->
 
 <!-- ### My Github Trophy
 
