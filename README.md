@@ -132,15 +132,17 @@
 
 ### My Github Stats
 
+![Harbane's streak stats](https://streak-stats.demolab.com/?user=harbanery&theme=onedark-duo&hide_border=true&date_format=j%20M%5B%20Y%5D&background=0D1117)
+
 <table>
-    <tr align="center">
-        <td colspan="2">
+    <!-- <tr align="center"> -->
+        <!-- <td colspan="2">
             <img align="center" width="100%" src="https://streak-stats.demolab.com/?user=harbanery&theme=onedark-duo&hide_border=true&date_format=j%20M%5B%20Y%5D&background=0D1117" alt="Harbane's streak stats" />
-        </td>
-    </tr>
-    <tr>
-    </tr>
-    <tr align="center">
+        </td> -->
+    <!-- </tr> -->
+    <!-- <tr>
+    </tr> -->
+    <!-- <tr align="center"> -->
         <!-- <td> -->
             <!-- <picture>
                 <source
@@ -158,7 +160,7 @@
         <!-- <td>
             <img align="center" width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harbanery&langs_count=4&show_icons=true&locale=en&layout=compact&hide_border=true&theme=onedark&bg_color=0d1117" alt="Harbane's most used language" />
         </td> -->
-    </tr>
+    <!-- </tr> -->
 </table>
 
 <!-- <details open>
