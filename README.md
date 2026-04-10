@@ -106,7 +106,7 @@
 
 <!-- </details> -->
 
-<details open>
+<details>
   <summary>Other Skills</summary>
   <br>
 
