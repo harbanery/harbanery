@@ -1,4 +1,4 @@
-<h3 align="center">Hi! 👋 I'm Raihan Yusuf</h3>
+<h3 align="center">Greetings! I'm Raihan Yusuf 👋</h3>
 
 <!-- --- -->
 
@@ -49,6 +49,7 @@
 <sup>Skills I actively use in my current role</sup>
 
 [![Next.js](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)](https://nextjs.org/)
+[![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
 [![Go](https://img.shields.io/badge/go-00ADD8?style=for-the-badge&logo=go&logoColor=white)](https://golang.org/)
 
 <!-- [![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)](https://developer.mozilla.org/en-US/docs/Web/JavaScript) -->
@@ -110,7 +111,6 @@
   <br>
 
 [![React.js](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://reactjs.org/)
-[![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
 [![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [![Tailwind CSS](https://img.shields.io/badge/tailwindcss-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
 [![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)](https://www.php.net/)
@@ -155,9 +155,9 @@
             </picture> -->
             <!-- <img align="center" width="100%" src="https://github-readme-stats.vercel.app/api?username=harbanery&hide=stars,issues&hide_title=true&rank_icon=github&show_icons=true&hide_border=true&theme=onedark&bg_color=0d1117" alt="Harbane's stats" /> -->
         <!-- </td> -->
-        <td>
+        <!-- <td>
             <img align="center" width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harbanery&langs_count=4&show_icons=true&locale=en&layout=compact&hide_border=true&theme=onedark&bg_color=0d1117" alt="Harbane's most used language" />
-        </td>
+        </td> -->
     </tr>
 </table>
 
