@@ -1,4 +1,4 @@
-<h3 align="center">Greetings! I'm Raihan Yusuf 👋</h3>
+<h3 align="center">Greetings! 👋</h3>
 
 <!-- --- -->
 
